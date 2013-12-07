@@ -1,0 +1,13 @@
+<!--         Invisible Book           -->
+<!--    Developed By Johanna Rogers    -->
+<!--   http://www.johannarogers.com    -->
+<!--        Launched December 2004         -->
+<!-- Inquiries: info@johannarogers.com -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="The website of Johanna Rogers, presenting her Invisible Book Project, including her conceptual work with secrets and apologies" />
+<meta name="keywords" content="Invisible Book, InvisibleBook, invisiblebook, invisible book, blacklight, Black light, black-light, modern art, fine art, book, fine art book, bookarts, bookartist, book binding, bookmaking, libros, libro invisible, secrets, secretos, apologies" />
+<meta name="author" content="johannarogers.com" />
+<meta name="distribution" content="global" />
+<meta name="copyright" content="Copyright 2002-2006, Johanna Rogers" />
+<meta name="robots" content="all" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />

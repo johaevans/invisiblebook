@@ -1,0 +1,81 @@
+/* body
+----------------------------------------------- */
+body {
+  background:#aaaaaa;
+  margin:0;
+  padding:40px 20px;
+  font:small "Trebuchet MS", Trebuchet, Verdana, Sans-Serif;
+  text-align:center;
+  color:#AAAAAA;
+  }
+/* a:link {
+  color:#D87600;
+  text-decoration:none;
+  }
+a:visited {
+  color:#B2599D;
+  text-decoration:none;
+  }
+a:hover {
+  color:#05119A;
+  text-decoration:underline;
+  }*/
+a img {
+  border-width:0;
+  }
+/* Header
+----------------------------------------------- */
+#header {
+	border:0px;
+	margin-bottom: 0px;
+	margin-top: 250px;
+  }
+
+/* linkfromhome
+----------------------------------------------- */
+#linkfromhome {
+	font:600 90% "Trebuchet MS", Trebuchet, Verdana, Arial, Sans-serif;
+	letter-spacing:0.1em;
+	color: #FF6600;
+	margin-bottom: 20px;
+	text-decoration: none;
+}
+#linkfromhome a:link {color: #FF6600; text-decoration: none}
+#linkfromhome a:visited {color: #F46200; text-decoration: none}
+#linkfromhome a:active {color: #FF6600; text-decoration: none}
+#linkfromhome a:hover {	color: #F46200;	text-decoration: underline;
+}
+
+/* site requirements
+----------------------------------------------- */
+#site_requirements {
+	font-family: "Verdana", "Helvetica", "Arial", "sans-serif";
+	font-size: 9px;
+	font-weight: normal;
+	color: #E9E9E9;
+	text-decoration: none;
+	line-height: normal;
+}
+#site_requirements a:link {color: #E9E9E9; text-decoration: none}
+#site_requirements a:visited {color: #E9E9E9; text-decoration: none}
+#site_requirements a:hover {color: #666666; text-decoration: none}
+#site_requirements a:active {color: #E9E9E9; text-decoration: none}
+
+/* myscrollbar
+----------------------------------------------- */
+.myscrollbar { scrollbar-face-color: #b7b7b7; 
+	scrollbar-3dlight-color: #EAEAEA; 
+	scrollbar-darkshadow-color: #515151;       
+	scrollbar-track-color: #999999; 
+	scrollbar-shadow-color: #7F7F7F; 
+	scrollbar-highlight-color: #cccccc;
+	scrollbar-arrow-color: #ff6600;}
+	
+	
+.oldscrollbar { scrollbar-face-color: #666666; 
+	scrollbar-3dlight-color: #666666; 
+	scrollbar-darkshadow-color: #666666;       
+	scrollbar-track-color: #cccccc; 
+	scrollbar-shadow-color: #b7b7b7; 
+	scrollbar-highlight-color: #333333;
+	scrollbar-arrow-color: #333333;}

@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "development server"
+AuthUserFile /home/joha/htpass.user
+AuthGroupFile /home/joha/htpass.group
+Require user joha max
